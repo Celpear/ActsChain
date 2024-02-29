@@ -4,3 +4,8 @@ ActsChain is an open-source Ethereum token project dedicated to providing GPU po
 ## ToDo:
 
 Everything still needs to be worked out. But why don't you join in so that we can build something cool together and have our own token? :)
+
+
+
+
+This Github project is supported by [ActsRay.de](https://actsray.de/).
