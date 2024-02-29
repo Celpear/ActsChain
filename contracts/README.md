@@ -1,0 +1,2 @@
+# ActsChain - Contracts
+The cornerstone of ActsChain, this ERC20 token project embodies the principles of fairness and decentralization, enabling equitable trading and access to computer power for AI training and cloud resource provision.

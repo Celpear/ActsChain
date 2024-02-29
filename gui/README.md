@@ -1,0 +1,2 @@
+# ActsChain - GUI
+This folder contains the web interface for ActsChain, where users can conveniently buy and sell GPU or CPU power for various purposes, such as AI training or cloud resource provisioning.
